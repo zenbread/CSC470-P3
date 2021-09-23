@@ -1,0 +1,16 @@
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\obj\Debug\UnitTestAppUserFakeRepository.csproj.AssemblyReference.cache
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\obj\Debug\UnitTestAppUserFakeRepository.csproj.CoreCompileInputs.cache
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\UnitTestAppUserFakeRepository.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\UnitTestAppUserFakeRepository.pdb
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\P3.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\P3.pdb
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\obj\Debug\UnitTestAppUserFakeRepository.csproj.CopyComplete
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\obj\Debug\UnitTestAppUserFakeRepository.dll
+C:\Users\nmcam\Desktop\Code\CSC470\Assignments\P3 Code\UnitTestAppUserFakeRepository\obj\Debug\UnitTestAppUserFakeRepository.pdb
