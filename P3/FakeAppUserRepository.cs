@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace P3
 {
-    class FakeAppUserRepository : IAppUserRepository
+    public class FakeAppUserRepository : IAppUserRepository
     {
         private static Dictionary<string, AppUser> Users;
 
